@@ -1,0 +1,7 @@
+{
+    "name": "umer936/multi-emails-input",
+    "description": "multi-emails-input is a small library to convert a div into a multiple emails input",
+    "type": "library",
+    "keywords": ["javascript", "emails", "input", "component"],
+    "homepage": "https://github.com/umer936/multi-emails-input"
+}
